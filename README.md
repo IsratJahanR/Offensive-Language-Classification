@@ -87,7 +87,9 @@ Clone the Repository
 git clone https://github.com/IsratJahanR/Offensive-Language-Classification.git
 cd Offensive-Language-Classification
 
----
+---```
+
+
 
 Developed by **Israt Jahan Reshma**  
 Email: [israt.gstu@gmail.com](mailto:israt.gstu@gmail.com)  
