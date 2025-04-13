@@ -83,11 +83,11 @@ Offensive-Language-Classification/
 
 Clone the Repository
 
-```bash
+
 git clone https://github.com/IsratJahanR/Offensive-Language-Classification.git
 cd Offensive-Language-Classification
 
----```
+---
 
 
 
